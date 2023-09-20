@@ -8,6 +8,9 @@ Make file contains commands needed.
 
 * `make test` Runs unit tests
 
+# Replace {YOUR NAME} with your actual name
+echo "Venkat Mannava/Anil Kumar was here" >> README.md
+
 * `make test-acceptance` Runs acceptance tests
 
 * `make run` Runs the program
